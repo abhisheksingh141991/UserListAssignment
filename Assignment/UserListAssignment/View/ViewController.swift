@@ -15,7 +15,6 @@ class ViewController: UIViewController {
 
     var userList: UserList = []
     var currentPage = 1
-    var isLoading = false
 
     override func viewDidLoad() {
         super.viewDidLoad()
